@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A monstrous dispute: or, The language of the beast, in two men professing themselves ministers of the Gospel; both proved at a publike dispute in Lumber-street, Oct. 12. 1653. I. That they are no men, but beasts. II. That they are no ministers, but monsters. William Erbery.</title>
+            <author>Erbery, William, 1604-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84076</idno>
+            <idno type="STC">Wing E3233</idno>
+            <idno type="STC">Thomason E714_25</idno>
+            <idno type="STC">ESTC R207252</idno>
+            <idno type="EEBO-CITATION">99866317</idno>
+            <idno type="PROQUEST">99866317</idno>
+            <idno type="VID">166719</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166719)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E714[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A monstrous dispute: or, The language of the beast, in two men professing themselves ministers of the Gospel; both proved at a publike dispute in Lumber-street, Oct. 12. 1653. I. That they are no men, but beasts. II. That they are no ministers, but monsters. William Erbery.</title>
+                  <author>Erbery, William, 1604-1654.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by J.C. for Giles Calvet [sic], and are to be sold at his shot [sic] at the Black-spred Eagle, at the West end of Pauls.,</publisher>
+                  <pubPlace>London printed, :</pubPlace>
+                  <date>[1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "October 18 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166719:1" rendition="simple:additions"/>
+            <p>A Monſtrous Diſpute: OR, THE LANGUAGE OF THE BEAST, IN Two Men profeſsing themſelves Mini<g ref="char:EOLhyphen"/>ſters of the Goſpel; both proved at a Pub<g ref="char:EOLhyphen"/>like Diſpute in Lumber-ſtreet, <hi>Oct.</hi> 12. 1653.
+<list>
+                  <item>I. That they are no Men, but Beaſts.</item>
+                  <item>II. That they are no Miniſters, but Monſters.</item>
+               </list>
+            </p>
+            <p>WILLIAM ERBERY.</p>
+            <q>
+               <p>Where is the wiſe? where is the Scribe? where is the Diſputer of this world? hath not God made fooliſh the wiſdome of this world? </p>
+               <bibl>
+                  <hi>1 Cor. 1.20.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Every man is bruitiſh in his knowledge, </p>
+               <bibl>
+                  <hi>Jer. 51.17, 18.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>The Ox knoweth his owner, and the Aſs his Maſters ſcrib, but <hi>Iſrael</hi> doth not know, my people do not conſider, </p>
+               <bibl>
+                  <hi>Iſa. 1.3.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London</hi> Printed, by <hi>J. C.</hi> for <hi>Giles Calvet,</hi> and are to be ſold at his ſhop at the Black-ſpred Eagle, at the Weſt end of <hi>Pauls.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166719:2"/>
+            <pb n="1" facs="tcp:166719:2"/>
+            <head>Something of the Diſpute.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE <hi>Diſpute</hi> I call <hi>Monſtrous,</hi> becauſe it had neither head nor taile (as they ſay) the <hi>Opponent</hi> could not at firſt finde the <hi>Queſtion,</hi> nor form an <hi>Argument</hi> to the laſt, and the <hi>Defendant</hi> was faine to <hi>frame</hi> both for him.</p>
+            <p>Mr. <hi>Webſter</hi> the Reſpondent had publiſhed a Book, and publikely preached for the <hi>exalting of God alone,</hi> and of <hi>Chriſt in the Spi<g ref="char:EOLhyphen"/>rit:</hi> Chriſt being the onely <hi>Ordinance, or means to bring men to God;</hi> and the Spirit alone the <hi>teacher of his people; Chriſt the way to the Father,</hi> and <hi>none knowing the Father but the Son (inus)</hi> neither any able to ſay <hi>that Jeſus is the Lord, but by the Spirit,</hi> &amp;c. ſuch ſpiritual Truths two profeſſed Miniſters came publikely to oppoſe, though pretending ſome errors. I ſhall not name the oppoſing Miniſters, becauſe they were ſham'd enough at the Diſpute, therefore will not ſtrip them bare before the world; becauſe I honour them both, eſpecially one of them my worthy friend; There was alſo a third, that is, a Presbyter, Indepen<g ref="char:EOLhyphen"/>dant, and Anabaptiſt, three againſt one; but one was too many for three.</p>
+            <p>Onely becauſe to me, they publikly reſiſted the <hi>Spirit,</hi> that is now breaking forth in the Saints, and ſeemed to ſpare the <hi>fleſh;</hi> yea, to defend that which the Lord God is about to de<g ref="char:EOLhyphen"/>ſtroy; therefore I could not but tell the world, that the wiſeſt Miniſters, and pureſt Churches this day are ſo befooled, con<g ref="char:EOLhyphen"/>founded, and defiled alſo with their natural Reaſon, and hu<g ref="char:EOLhyphen"/>mane learning, that ſuch things are as much ſet up by theſe
+<pb n="2" facs="tcp:166719:3"/>Men, in the things of God, as by Papiſts, or Prelates.</p>
+            <p>I will not mention all the Particulars in the Diſpute, how little of reaſon or literature appeared in thoſe, who profeſſed both ſo much. Let the impartial hearers judge, and let all the Miniſters of <hi>England</hi> Anſwer, if this be learning, to ſay, That <hi>Rationality is a habit.</hi> That becauſe humane learning was in the man Chriſt; therefore 'tis not ſinful in man, whoſe very plow<g ref="char:EOLhyphen"/>ing is ſin. Why not his learning al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o? Is it learning or reaſon, or religion to ſay, That <hi>all the imaginations of mans heart are only evil continually,</hi> per accidens. That <hi>humane learning</hi> is neceſſary for the <hi>preaching of the Goſpel.</hi> Yea that Chriſt made uſe of humane learning in his <hi>Minſtery,</hi> who <hi>knew n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t letters?</hi>
+            </p>
+            <p>And whereas the Apoſtle bids us <hi>beware of Philoſophy, and the rudiments of this world,</hi> That's humane learning, and the like in the things of Chriſt, <hi>Col.</hi> 2.8. Why is it not a tranſgreſſion of the Law Evangelical, to look for natural Reaſon and hu<g ref="char:EOLhyphen"/>mane learning, as neceſſary means to open the <hi>Myſtery</hi> of the Goſpel, which is onely manifeſt by the <hi>Spirit of Revelation?</hi> Eph. 1.17. Eph. 3.3, 4, 5. Gal. 1.16.</p>
+            <p>Mr. <hi>C.</hi> Who came to oppoſe, would needs (according to cuſtome) begin the Diſpute with prayer, but I prayed him to forbear his prayers till he came to his Cloſet, and to begin the Diſpute; telling him, that Chriſt did Diſpute with the Doctors, and <hi>Paul</hi> in the School of <hi>Tyrannus,</hi> without any prayer before, no nor yet with their publike preachings to the world. There was no prayer before, nor after Sermon.</p>
+            <p>I ſpeak this, That he and other Miniſters might once for<g ref="char:EOLhyphen"/>bear their ſuperſtitious forms of Prayer, having no precept, nor preſident for them from Chriſt and his Apoſtles, it being a cuſtomary traditional practiſe of the old Prieſts, a voluntary humility, and ſeeming holineſs, with a ſhew of devotion to begin every publike ſpeech or Sermon with Prayer, which is but a meer ſuperſtition, hypocriſie, and pride alſo, to think themſelves wiſer then God, and more devoute then Chriſt.</p>
+            <p>That which is commonly ſaid, <hi>That every creature is ſanctified by the word and prayer,</hi> is true, 1 <hi>Tim.</hi> 4.5. but why then do they not ſay grace before eating of Oyſters, or Apples? and why do they not ſay their prayers before a pipe of Tobacco? a good
+<pb n="3" facs="tcp:166719:3" rendition="simple:additions"/>creature. The <hi>word and prayer</hi> is a more ſpiritual and ſecret thing in the Spirits of the Saints, then underſtood by com<g ref="char:EOLhyphen"/>mon men or Miniſters.</p>
+            <p>'Tis the <hi>word</hi> within, and the inward <hi>prayer;</hi> for we <hi>know not what to pray for, as we ought, but the Spirit helpeth our infirmities and maketh interceſſions</hi> (or ſecret petitions) <hi>for us with ſight and groan that cannot be uttered,</hi> Rom. 8.26. but theſe men have the ſpirit at command, can pray when they will, and know what to pray or utter before hand.</p>
+            <p>Beſides the mighty command of the eternal Spirit in us, is that <hi>word which is nigh thee in thy mouth, and in thy heart,</hi> Rom. 10. 'tis this ſanctifieth every creature, as well as every Diſ<g ref="char:EOLhyphen"/>pute or Sermon; in which Spirit both Chriſt and his Apoſtles went forth in their publike ſpeakings or preachings, without any forms of Prayers before or after.</p>
+            <p>Truely there was no fighting, nor blows at the Diſpute (as 'twas reported at <hi>Weſtminſter</hi>) but the Diſpute was ſo confuſed without any form or order, without method, or matter in<g ref="char:EOLhyphen"/>deed, that I ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er ſaw leſs Reaſon or Learning in rational men and Scholars, leſs Religion in Saints, who came to catch, not to finde the truth, but to ſeek out errors, and ſet up ſnares in which themſelves fell at laſt.</p>
+            <p>The firſt Queſtion was conce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning the Miniſtery, which Mr. <hi>Webſter</hi> deſired his opponent to prove in himſelf, and to hold it forth to the people, how he was ſent of God a Miniſter of Chriſt; but the man was ſilent to this.</p>
+            <p>The poſition was, that God and not man made Miniſters of the Goſpel, <hi>Gal.</hi> 1.12. Men did only declare who were deſigned by God before, and made Miniſters by him for that work. So 'twas in the Goſpel-Church, the <hi>Spirit ſeperated Paul and Bar<g ref="char:EOLhyphen"/>nabas,</hi> whom the Church of <hi>Antioch Ordained</hi> afterward, <hi>Act.</hi> 13.2, 3. Againe, the <hi>Ordaining of Elder<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> was an appointing thoſe in their porper charge, whom God had before ſet apart in the Church, <hi>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</hi> 1.5. Againe, there was a <hi>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft of the Spirit gi<g ref="char:EOLhyphen"/>ven by the l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ying on of hands of the Presbytery,</hi> or Elderſhip of a particular Church, as <hi>Act.</hi> 20.17. 1 <hi>Tim.</hi> 4.14. compared. There being no ſuch <hi>manifeſtation of the Spirit</hi> in any Church this day; how can any go forth to <hi>preach the Goſpel, having not power from
+<pb n="4" facs="tcp:166719:4"/>on high, nor the holy Spirit ſent down from heaven?</hi> 1 Pet. 1.12. I mean the <hi>glorious Goſpel of the bleſſed God,</hi> 1 Tim. 1.11. or the <hi>manifeſtation of the Myſtery hid from the ſons of men:</hi> for the Goſpel virtually was preached before, un<g ref="char:EOLhyphen"/>der the Law, <hi>Heb.</hi> 4.2. <note place="margin">The Goſpel taught typically under the Law, parabolically in the Goſpels, by Chriſt in the days of his fleſh, and ſo by the A<g ref="char:EOLhyphen"/>poſtles then, till the Spirit came on the A<g ref="char:EOLhyphen"/>poſtles and Primitive Saints, to manifeſt the Myſtery of the Goſ<g ref="char:EOLhyphen"/>pel, to fulfill, or fully to preach it, as the margine reads, <hi>Col.</hi> 1.25.</note> and ſo by the Apo<g ref="char:EOLhyphen"/>ſtles, who were under a legal diſpenſation while Chriſt lived in Fleſh, and the Goſ<g ref="char:EOLhyphen"/>pel vailed (for the Apoſtles then were ve<g ref="char:EOLhyphen"/>ry carnal, and believed not the reſurrecti<g ref="char:EOLhyphen"/>on) but the <hi>revealed Goſpel,</hi> my <hi>Goſpel</hi> (ſaith <hi>Paul</hi>) and the <hi>preaching of Jeſus Chriſt ac<g ref="char:EOLhyphen"/>cording to the revelation of the Myſtery kept ſecret ſince the world began</hi> (Rom. 16.25. Eph. 3.3.) was not publiſhed, nor could be actually preached by the Apoſtles them<g ref="char:EOLhyphen"/>ſelves, till they were <hi>baptized with the Spi<g ref="char:EOLhyphen"/>rit,</hi> Act. 1.5.</p>
+            <p>How dares then any Miniſter now ſay, That he preacheth the glorious Goſpel? or any Churches pretend to be in Goſpel-Order?</p>
+            <p>The next queſtion was about humane learning, and acqui<g ref="char:EOLhyphen"/>red gifts of Arts and parts, with natural reaſon, <hi>&amp;c.</hi> which Mr. <hi>C.</hi> did ſo exceedingly magnifie, that I could not chuſe, but break forth in theſe Queres, ſaying, Sir, I ſee you cannot object any thing againſt Mr. <hi>Webſter;</hi> will ye pleaſe to Anſwer my ob<g ref="char:EOLhyphen"/>jections?</p>
+            <p>Firſt, I aſſert, you are no man, but a Beaſt.</p>
+            <p>Secondly, That you are no Miniſter, but a Monſter.</p>
+            <p>To the firſt, I argue thus, Mr. <hi>C.</hi> you are an Aſs, therefore a Beaſt.</p>
+            <p>He denied my propoſition, which I proved thus:
+<list type="syllogism">
+                  <item>That which God did truely ſay of his people Iſrael, may I truely ſay of you.</item>
+                  <item>But God did truely ſay of his people, that Iſrael was an Aſs:</item>
+                  <item>Therefore may I truely ſay of you Sir, that you are an Aſs.</item>
+               </list>
+            </p>
+            <p>The minor is, <hi>Jer.</hi> 2.24. <hi>A wilde Aſs uſed to the wilderneſs,</hi> &amp;c. <hi>but vaine man would be wiſe, though man be born a wilde Aſſes colt,</hi> Job 11.12.</p>
+            <pb n="5" facs="tcp:166719:4"/>
+            <p>My next Argument which I had ready to prove, that he was no man, but a Beaſt, and that to the Miniſters alſo with him.</p>
+            <list type="syllogism">
+               <item>If men may truely call the Miniſters, as God called the falſe prophets, <hi>greedy doggs,</hi> then the Miniſters are no men, but Beaſts.</item>
+               <item>But men may truly call the Miniſters, at God called the falſe Prophets, <hi>greedy doggs:</hi>
+               </item>
+               <item> Therefore the Miniſters are no men but Beaſts.</item>
+            </list>
+            <p>The minor is proved <hi>Iſa.</hi> 56.11. <hi>Yea they are greedy dogs, which can never have enough; ſhepherds that cannot underſtand, they look to their own way, every one for his gaine, from his quarter.</hi>
+            </p>
+            <p>Let their own conſcience, and the experience of theſe times witneſs, if godly Miniſters were ever more greedy of gaine; none will preach under one hundred pound <hi>per. an.</hi> who for<g ref="char:EOLhyphen"/>merly were content with fifty pound for a Lecture, or a little in their own Church, who now muſt have five hundred pound, or ſeven hundred pound <hi>per. an.</hi> in a Colledge, and run from one fat parſonage to another in the country, changing their <hi>quarters.</hi>
+            </p>
+            <p>The next thing that I was to prove (but could not be ſuffer<g ref="char:EOLhyphen"/>ed by the Miniſters friends) was this, that thoſe men are no Miniſters, but Monſters, which I proved thus.</p>
+            <list type="syllogism">
+               <item>Thoſe men who are the Beaſt, with ſeven heads, and ten horns (O horrible monſter!) are no Miniſters, but mon<g ref="char:EOLhyphen"/>ſters.</item>
+               <item>But the Miniſters are the Beaſt with ſeven heads, and ten horns.</item>
+               <item>Therefore they are monſters.</item>
+            </list>
+            <p>The minor is proved thus:</p>
+            <list type="syllogism">
+               <item>Thoſe Miniſters who have the number of a man, are the Beaſt with the ſeven heads and ten hours.</item>
+               <item>But the Miniſters have the number of a man: </item>
+               <item>Therefore they are the Beaſt with ſeven heads, and ten horns.</item>
+            </list>
+            <p>The major is proved, <hi>Rev.</hi> 13.18. <hi>The number of the Beaſt is the number of a man,</hi> &amp;c.</p>
+            <p>If the Miniſters deny the minor, and ſay they have not the <hi>number of a man;</hi> Then I conclude, they have the <hi>number of the
+<pb n="6" facs="tcp:166719:5"/>Beaſt,</hi> and ſo the firſt is the laſt, The <hi>Miniſters are no men, but Beaſts.</hi>
+            </p>
+            <p>Yea, the <hi>ſeven heads and ten horns being the perfect wiſdome of man.</hi> and the <hi>abſolute power</hi> of the Magiſtrate (which the Inde<g ref="char:EOLhyphen"/>pendant Miniſters, and Baptized alſo depending on ſo much) make themſelves Monſters, and no Miniſters.</p>
+            <p>For as ſeven is the number of perfection, ſo it has reference to the ſeven Churches, whoſe heads note their fleſhly wiſ<g ref="char:EOLhyphen"/>dome: and as the ten horns are the ten Kings, or abſolute Magiſtracy who for a time <hi>gave their power to the Beaſt,</hi> or fleſh<g ref="char:EOLhyphen"/>ly Miniſtry, <hi>Rev.</hi> 27.13. ſo afterward the <hi>ten horns hate the whore, make her deſolate and naked, eat her fleſh, and burn her with fire,</hi> verſ. 16.</p>
+            <p>This <hi>fire</hi> is the <hi>Spirit of the Lord</hi> in our godly Magiſtrates, who are the moſt abſolute men, both Civil and Martial, by Land and Sea, joyned together to manage the great deſigne of God this day, in deſtroying all that is of man (or fleſhly Miniſtery) and ſetting up God alone in the land, that at laſt we may ceaſe from man, and God may be All in All, <hi>Iſa.</hi> 2.11. to 22. <hi>verſ.</hi>
+            </p>
+            <p>That <hi>Babylon</hi> is the Church in her <hi>Members.</hi> That the <hi>Beaſt</hi> is the Church in her <hi>Miniſters;</hi> and that the great <hi>whore</hi> is the Church in her <hi>worſhips</hi> (typified by the <hi>whoredomes of Iſrael</hi>) I ſhall prove (with God) another Time.</p>
+            <p>Laſtly, Let men know, that Independant Miniſters were the firſt who new model'd Tithes in <hi>Wales:</hi> and are the laſt who eſtabliſh Tithes in England; contrary to their old light, love, and Spirit of Liberty.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
